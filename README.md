@@ -1,2 +1,2 @@
 # Jiben2
-计本二班
+## This is a common repository for homework uploading.
